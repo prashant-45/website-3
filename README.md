@@ -4,7 +4,7 @@ This site uses the [Hugo static site generator](https://gohugo.io/) and the [Doc
 
 ## Local Development
 
-Please ensure you have the following installed:
+Please ensure that you have the following installed:
 * Hugo
 * npm
 * git
